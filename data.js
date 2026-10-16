@@ -46,7 +46,7 @@ window.RELEASES = [
    "spotify": "https://open.spotify.com/album/7rFD3eWTOPrjbiigg4GfHM",
    "apple": "https://music.apple.com/br/album/salmo-35-single/1886294516",
    "deezer": "https://www.deezer.com/album/942950861",
-   "youtube": "https://music.youtube.com/search?q=Salmo%2035%20Paloma%20Possi"
+   "youtube": "https://music.youtube.com/browse/MPREb_3l1QyTy0b8k"
   }
  },
  {
@@ -67,10 +67,10 @@ window.RELEASES = [
    }
   ],
   "links": {
-   "spotify": "https://open.spotify.com/search/Escolhi%20Paloma%20Possi",
+   "spotify": "https://open.spotify.com/album/77XH04CbZiCwKrhtbMoHa4",
    "apple": "https://music.apple.com/br/album/escolhi-single/1877886753",
    "deezer": "https://www.deezer.com/album/921095431",
-   "youtube": "https://music.youtube.com/search?q=Escolhi%20Paloma%20Possi"
+   "youtube": "https://music.youtube.com/browse/MPREb_yTHdX80UW7g"
   }
  },
  {
@@ -92,10 +92,10 @@ window.RELEASES = [
    }
   ],
   "links": {
-   "spotify": "https://open.spotify.com/search/Remanescente%20%28Reprise%29%20%28Ao%20Vivo%29%20Paloma%20Possi",
+   "spotify": "https://open.spotify.com/album/08oE8fnZjlCgDp2QZ3cflO",
    "apple": "https://music.apple.com/br/album/remanescente-reprise-ao-vivo-single/1856008734",
    "deezer": "https://www.deezer.com/album/864081552",
-   "youtube": "https://music.youtube.com/search?q=Remanescente%20%28Reprise%29%20%28Ao%20Vivo%29%20Paloma%20Possi"
+   "youtube": "https://music.youtube.com/browse/MPREb_2QGYzON6lFW"
   }
  },
  {
@@ -114,10 +114,10 @@ window.RELEASES = [
    }
   ],
   "links": {
-   "spotify": "https://open.spotify.com/search/Quero%20conhecer%20Jesus%20Paloma%20Possi",
+   "spotify": "https://open.spotify.com/album/0Vw566E6ilgHWNTsuR84YC",
    "apple": "https://music.apple.com/br/album/quero-conhecer-jesus-single/1828809835",
    "deezer": "https://www.deezer.com/album/793793221",
-   "youtube": "https://music.youtube.com/search?q=Quero%20conhecer%20Jesus%20Paloma%20Possi"
+   "youtube": "https://music.youtube.com/browse/MPREb_JIPnRYZzZc0"
   }
  },
  {
@@ -136,10 +136,10 @@ window.RELEASES = [
    }
   ],
   "links": {
-   "spotify": "https://open.spotify.com/search/Furioso%20Oceano%20Paloma%20Possi",
+   "spotify": "https://open.spotify.com/album/7im248i66gvcLiokZOZ75h",
    "apple": "https://music.apple.com/br/album/furioso-oceano-single/1828816695",
    "deezer": "https://www.deezer.com/album/793810051",
-   "youtube": "https://music.youtube.com/search?q=Furioso%20Oceano%20Paloma%20Possi"
+   "youtube": "https://music.youtube.com/browse/MPREb_dYDSYFk15rQ"
   }
  },
  {
@@ -158,10 +158,10 @@ window.RELEASES = [
    }
   ],
   "links": {
-   "spotify": "https://open.spotify.com/search/O%20Seu%20amor%20por%20mim%20Paloma%20Possi",
+   "spotify": "https://open.spotify.com/album/0NTJy2L5d8Ri9aRqggy5qc",
    "apple": "https://music.apple.com/br/album/o-seu-amor-por-mim-single/1830479846",
    "deezer": "https://www.deezer.com/album/798227461",
-   "youtube": "https://music.youtube.com/search?q=O%20Seu%20amor%20por%20mim%20Paloma%20Possi"
+   "youtube": "https://music.youtube.com/browse/MPREb_2B0SWMlvRPh"
   }
  },
  {
@@ -182,10 +182,10 @@ window.RELEASES = [
    }
   ],
   "links": {
-   "spotify": "https://open.spotify.com/search/A%20Maior%20Heran%C3%A7a%20%28Ao%20Vivo%29%20Paloma%20Possi",
-   "apple": "https://music.apple.com/br/search?term=A%20Maior%20Heran%C3%A7a%20%28Ao%20Vivo%29%20Paloma%20Possi",
+   "spotify": "https://open.spotify.com/album/6gt0VRoT0NK79KmQOfxdSv",
+   "apple": "https://music.apple.com/br/album/a-maior-heran%C3%A7a-ao-vivo-single/1777800679",
    "deezer": "https://www.deezer.com/album/665426071",
-   "youtube": "https://music.youtube.com/search?q=A%20Maior%20Heran%C3%A7a%20%28Ao%20Vivo%29%20Paloma%20Possi"
+   "youtube": "https://music.youtube.com/browse/MPREb_uXFSgcsxuFA"
   }
  },
  {
@@ -242,7 +242,7 @@ window.RELEASES = [
    "spotify": "https://open.spotify.com/album/7CybXHoarqFPVdqanU8D0X",
    "apple": "https://music.apple.com/br/album/raz%C3%A3o-da-esperan%C3%A7a/1762726729",
    "deezer": "https://www.deezer.com/album/629107821",
-   "youtube": "https://music.youtube.com/search?q=Raz%C3%A3o%20da%20Esperan%C3%A7a%20Paloma%20Possi"
+   "youtube": "https://music.youtube.com/browse/MPREb_GKfX0EblBbH"
   }
  },
  {
@@ -264,7 +264,7 @@ window.RELEASES = [
    "spotify": "https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY",
    "apple": "https://music.apple.com/br/album/plano-melhor-single/1760255698",
    "deezer": "https://www.deezer.com/album/622675001",
-   "youtube": "https://music.youtube.com/search?q=Plano%20Melhor%20Paloma%20Possi"
+   "youtube": "https://music.youtube.com/browse/MPREb_TM8vq5YJTkq"
   }
  },
  {
@@ -287,9 +287,8 @@ window.RELEASES = [
   ],
   "links": {
    "spotify": "https://open.spotify.com/album/5csEYwj6oEMSTgJRN4U9b7",
-   "apple": "https://music.apple.com/br/search?term=Comprou%20Paloma%20Possi",
    "deezer": "https://www.deezer.com/album/588216202",
-   "youtube": "https://music.youtube.com/search?q=Comprou%20Paloma%20Possi"
+   "youtube": "https://music.youtube.com/browse/MPREb_FkNvx8z1VfM"
   }
  },
  {
@@ -323,10 +322,10 @@ window.RELEASES = [
    }
   ],
   "links": {
-   "spotify": "https://open.spotify.com/search/Caminho%2C%20Verdade%20e%20Vida%20Paloma%20Possi",
+   "spotify": "https://open.spotify.com/album/26kSgzEpryXI6usFd8YaWG",
    "apple": "https://music.apple.com/br/album/caminho-verdade-e-vida-ep/1625972600",
    "deezer": "https://www.deezer.com/album/321770167",
-   "youtube": "https://music.youtube.com/search?q=Caminho%2C%20Verdade%20e%20Vida%20Paloma%20Possi"
+   "youtube": "https://music.youtube.com/browse/MPREb_RXRDQp5i8Uk"
   }
  }
 ];
